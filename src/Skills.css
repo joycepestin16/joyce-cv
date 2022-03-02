@@ -1,0 +1,97 @@
+h1.heading{
+    font-size: 60px;
+    text-align: center;
+    font-family: Poppins, sans-serif;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+h1.heading2{
+    font-size: 30px;
+    text-align: center;
+    font-family: Poppins, sans-serif;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.skills-box{
+    border-radius: 10px;
+    width: 100%;
+    background-color: #191919;
+    padding: 55px;
+    transition: .4s ease ;
+}
+/* animataion */
+.skills-box:hover{
+    transform: translateY(5px);
+    background-image: linear-gradient(90deg, #f61b10, #ef0963);
+}
+
+.skills-box:hover.icon{
+    color: white;
+}
+
+h1.skills-text:hover{
+    color: white;
+}
+
+.icon{
+    font-size: 54px;
+    font-weight: 400;
+    margin-bottom: 20px;
+    display: inline-flex;
+    color: #f9004d;
+}
+
+p.skills-text.p-color{
+    margin-bottom: 0;
+}
+
+h1.skills-text{
+    font-size: 19px;
+    font-family: Poppins,sans-serif;
+    padding: 10px 0px;
+    text-align: center;
+}
+
+.javascript-icon {
+    width: 2em;
+    height: 1em;
+    
+}
+
+.css-icon{
+    width: 1em;
+    height: 1em;
+}
+
+.html-icon{
+    width: 1em;
+    height: 1em;
+}
+
+.bt-icon{
+    width: 1em;
+    height: 1em;
+
+}
+
+.java-icon {
+    width: 1em;
+    height: 1em;
+}
+
+.word-icon{
+    width: 1em;
+    height: 1em;
+    
+}
+
+.excel-icon{
+    width: 1em;
+    height: 1em;
+}
+
+.col-3 {
+    max-width: 20em;
+    min-height: 20em;
+    
+}

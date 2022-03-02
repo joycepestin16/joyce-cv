@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800&display=swap');
+
+.home-bg {
+    background-image: url(D:/UST/4THYR-2NDSEM/ITELEC4C/PestinCV/currvitae/src/img/bg.png);
+    background-color: black;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+
+}
+
+li.nav-items{
+    font-size: 18px;
+    padding-bottom: 15px;
+}
+
+.home-content{
+    padding: 125px 0px;
+}
+
+h1.home-text{
+    font-size: 18px;
+    font-weight: 400px;
+    letter-spacing: 3px;
+    color: rgba(198, 201, 216,.75)!important;
+}
+
+h2.home-text{
+    font-size: 54px;
+    font-weight: 54px;
+    font-weight: 800;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3.home-text{
+    font-size: 50px;
+    font-weight: 800p;
+    line-height: 40px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h4.home-text{
+    font-size: 54px;
+    font-weight: 54px;
+    font-weight: 800;
+    font-family: 'Montserrat', sans-serif;
+}
+
