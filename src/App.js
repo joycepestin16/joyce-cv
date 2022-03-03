@@ -6,12 +6,14 @@ import Skills from './Skills';
 import ReactDOM from 'react-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import Project from './Project';
+import Education from './Education';
 
 function App() {
   return (
     <div className="App">
       <Home />
       <About/>
+      <Education/>
       <Skills/>
       <Project/>
     </div>

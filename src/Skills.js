@@ -8,6 +8,9 @@ import btIcon from './img/bootstrap.png';
 import javaIcon from './img/java.png';
 import mswordIcon from './img/word.png';
 import excelIcon from './img/excel.png';
+import pptIcon from './img/ppt.png';
+import reactIcon from './img/react.png';
+import reactnIcon from './img/reactn.png';
 function Skills() {
   return (
     <div className='skills component-space'>
@@ -87,6 +90,32 @@ function Skills() {
             </div>
           </div>
 
+          <div className='col-3'>
+              <div className='skills-box pointer'>
+                <div className='icon'>
+                  <img src={reactIcon} alt="React Icon" className='react-icon' />
+                </div>
+                <div className='skills-meta'>
+                  <h1 className='skills-text sweet'>
+                    React JS
+                  </h1>
+                </div>
+              </div>
+            </div>
+
+            <div className='col-3'>
+              <div className='skills-box pointer'>
+                <div className='icon'>
+                  <img src={reactnIcon} alt="React Native Icon" className='reactn-icon' />
+                </div>
+                <div className='skills-meta'>
+                  <h1 className='skills-text sweet'>
+                    React Native
+                  </h1>
+                </div>
+              </div>
+            </div>
+
         </div>
       </div>
 
@@ -126,7 +155,7 @@ function Skills() {
             <div className='col-3'>
               <div className='skills-box pointer'>
                 <div className='icon'>
-                  <img src={htmlIcon} alt="Javascript Icon" className='html-icon' />
+                  <img src={pptIcon} alt="Powerpoint Icon" className='ppt-icon' />
                 </div>
                 <div className='skills-meta'>
                   <h1 className='skills-text sweet'>
@@ -135,6 +164,9 @@ function Skills() {
                 </div>
               </div>
             </div>
+
+            
+            
 
 
         

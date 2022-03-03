@@ -10,6 +10,15 @@
 
 }
 
+.navigation{
+    background-color: black;
+}
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
 li.nav-items{
     font-size: 18px;
     padding-bottom: 15px;

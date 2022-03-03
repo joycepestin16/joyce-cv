@@ -1,6 +1,12 @@
 img.about-img{
     border-radius: 10px;
-    width: 100%;
+    width: 250px;
+    height: auto;
+    
+}
+
+p.about-text{
+    text-align: justify;
 }
 
 h1.about-heading{
@@ -11,11 +17,35 @@ h1.about-heading{
     font-size: 60px;
 }
 
-.biodata-inner{
+p.biodata-text{
     color: white;
-    text-align: start;
+    justify-content: center;
+
 }
 
-.biodata-col{
-    justify-content: flex-start;
+h2.biodata-heading{
+    color: #f9004d;
 }
+
+.age-heading{
+    margin: 1em;
+}
+.age-text{
+    margin: 1.2em;
+}
+
+.bday-heading{
+    margin: 1em;
+}
+.bday-text{
+    margin: 1.2em;
+}
+
+.address-heading{
+    margin: 1em;
+}
+.address-text{
+    margin: 1em;
+}
+
+
