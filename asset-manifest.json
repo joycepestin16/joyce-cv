@@ -1,29 +1,32 @@
 {
   "files": {
-    "main.css": "/joyce-cv/static/css/main.81ff7610.css",
-    "main.js": "/joyce-cv/static/js/main.d2044b40.js",
+    "main.css": "/joyce-cv/static/css/main.503b6d38.css",
+    "main.js": "/joyce-cv/static/js/main.c0c8e697.js",
     "static/js/787.865a1255.chunk.js": "/joyce-cv/static/js/787.865a1255.chunk.js",
     "static/media/aboutme.png": "/joyce-cv/static/media/aboutme.27b4203ffb2f4072614f.png",
     "static/media/css.png": "/joyce-cv/static/media/css.6a1d8060f70bc6bb80c0.png",
-    "static/media/portfolio-1.jpg": "/joyce-cv/static/media/portfolio-1.6dd6354d36a291099ee7.jpg",
     "static/media/bg.png": "/joyce-cv/static/media/bg.1bbd1e96a43272c6a437.png",
+    "static/media/portfolio-2.jpg": "/joyce-cv/static/media/portfolio-2.062d3df186f1f6ef1e11.jpg",
     "static/media/portfolio-4.jpg": "/joyce-cv/static/media/portfolio-4.2d8bf5e6d107d1355320.jpg",
-    "static/media/portfolio-2.jpg": "/joyce-cv/static/media/portfolio-2.7581ecc62ee35f3f74f4.jpg",
-    "static/media/javascript.png": "/joyce-cv/static/media/javascript.7f8751632b42a9932c15.png",
+    "static/media/react.png": "/joyce-cv/static/media/react.35639ed930462bfcd544.png",
+    "static/media/reactn.png": "/joyce-cv/static/media/reactn.86c8d9eba03e29814d2a.png",
+    "static/media/portfolio-1.jpg": "/joyce-cv/static/media/portfolio-1.2ce4d60d755b66d0c633.jpg",
     "static/media/java.png": "/joyce-cv/static/media/java.b7a2f6415cec10cee413.png",
     "static/media/portfolio-3.jpg": "/joyce-cv/static/media/portfolio-3.e1d203d20eb86c807af6.jpg",
     "static/media/excel.png": "/joyce-cv/static/media/excel.f7ad53809690a1807fa6.png",
     "static/media/bootstrap.png": "/joyce-cv/static/media/bootstrap.268c4375260420e8d982.png",
     "static/media/html.png": "/joyce-cv/static/media/html.ff3cf75e3b7cbb4ea77c.png",
+    "static/media/javascript.png": "/joyce-cv/static/media/javascript.3dfb665e058d08c99f28.png",
     "static/media/word.png": "/joyce-cv/static/media/word.3520590ca5c0502f023d.png",
+    "static/media/ppt.png": "/joyce-cv/static/media/ppt.6fbb7ab6db1f79575b9e.png",
     "static/media/logo.svg": "/joyce-cv/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/joyce-cv/index.html",
-    "main.81ff7610.css.map": "/joyce-cv/static/css/main.81ff7610.css.map",
-    "main.d2044b40.js.map": "/joyce-cv/static/js/main.d2044b40.js.map",
+    "main.503b6d38.css.map": "/joyce-cv/static/css/main.503b6d38.css.map",
+    "main.c0c8e697.js.map": "/joyce-cv/static/js/main.c0c8e697.js.map",
     "787.865a1255.chunk.js.map": "/joyce-cv/static/js/787.865a1255.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.81ff7610.css",
-    "static/js/main.d2044b40.js"
+    "static/css/main.503b6d38.css",
+    "static/js/main.c0c8e697.js"
   ]
 }
