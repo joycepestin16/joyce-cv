@@ -14,8 +14,8 @@ function App() {
       <Home />
       <About/>
       <Education/>
-      <Skills/>
       <Project/>
+      <Skills/>
     </div>
   );
 }

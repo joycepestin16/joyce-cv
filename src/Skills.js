@@ -13,7 +13,7 @@ import reactIcon from './img/react.png';
 import reactnIcon from './img/reactn.png';
 function Skills() {
   return (
-    <div className='skills component-space'>
+    <div className='skills component-space' id='Skills'>
       <div className='heading'>
         <h1 className='heading'>Technical Skills</h1>
       </div>

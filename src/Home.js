@@ -14,10 +14,11 @@ function Home() {
                 <div className='navigation pxy-30'>
                     <ul className='navbar d-flex'>
                         <a href="#Home"><li className='nav-item mx-15'>Home</li></a>
-                        <a href="#Home"><li className='nav-item mx-15'>About</li></a>
-                        <a href="#Home"><li className='nav-item mx-15'>Education</li></a>
-                        <a href="#Home"><li className='nav-item mx-15'>Experience</li></a>
-                        <a href="#Home"><li className='nav-item mx-15'>Contact</li></a>
+                        <a href="#about"><li className='nav-item mx-15'>About</li></a>
+                        <a href="#Education"><li className='nav-item mx-15'>Education</li></a>
+                        
+                        <a href="#Works"><li className='nav-item mx-15'>Projects</li></a>
+                        <a href="#Skills"><li className='nav-item mx-15'>Skills</li></a>
                     </ul>
                 </div>
             </div>
@@ -27,7 +28,7 @@ function Home() {
                 <div className='home-content'>
                     <div className='home-meta'>
                         <h1 className='home-text pz-10'>
-                            WELCOME TO MY SPACE
+                            WELCOME TO MY STELLAR
                         </h1>
                         <h2 className='home-text pz-10'>
                             Hello, I'm Joyce Ann Pestin

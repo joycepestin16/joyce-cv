@@ -1,12 +1,13 @@
 img.about-img{
     border-radius: 10px;
-    width: 250px;
+    width: 300px;
     height: auto;
     
 }
 
 p.about-text{
     text-align: justify;
+    font-family: Quicksand, sans-serif;
 }
 
 h1.about-heading{
@@ -20,6 +21,7 @@ h1.about-heading{
 p.biodata-text{
     color: white;
     justify-content: center;
+    font-family: Quicksand, sans-serif;
 
 }
 
@@ -32,6 +34,7 @@ h2.biodata-heading{
 }
 .age-text{
     margin: 1.2em;
+    font-family: Quicksand, sans-serif;
 }
 
 .bday-heading{
@@ -39,6 +42,7 @@ h2.biodata-heading{
 }
 .bday-text{
     margin: 1.2em;
+    font-family: Quicksand, sans-serif;
 }
 
 .address-heading{
@@ -46,6 +50,13 @@ h2.biodata-heading{
 }
 .address-text{
     margin: 1em;
+    font-family: Quicksand, sans-serif;
+}
+
+@media screen and (min-width: 400px){
+    div.row {
+        width: 100%;
+    }
 }
 
 

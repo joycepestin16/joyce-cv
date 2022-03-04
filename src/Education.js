@@ -3,7 +3,7 @@ import './Education.css'
 
 function Education() {
     return (
-        <div className='education component-space'>
+        <div className='education component-space' id='Education'>
             <div className='heading'>
                 <div className='education-meta'>
                     <h1 className='heading'>Education</h1>

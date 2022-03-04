@@ -1,10 +1,10 @@
 import React from 'react'
 import './About.css';
-import aboutImg from "./img/aboutme.png";
+import aboutImg from "./img/aboutme.JPG";
 
 function About() {
     return (
-        <div className='about component-space'>
+        <div className='about component-space' id="about">
             <div className='container'>
                 <div className='row'>
                     <div className='col-2'>

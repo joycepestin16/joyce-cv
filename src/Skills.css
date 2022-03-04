@@ -26,13 +26,13 @@ h1.heading2{
     background-image: linear-gradient(90deg, #f61b10, #ef0963);
 }
 
-.skills-box:hover.icon{
+.skills-meta,h1.skills-text{
     color: white;
 }
 
-h1.skills-text:hover{
+/* h1.skills-text:hover{
     color: white;
-}
+} */
 
 .icon{
     font-size: 54px;

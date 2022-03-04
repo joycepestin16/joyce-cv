@@ -7,7 +7,7 @@ import Project4 from './img/portfolio-4.jpg';
 
 function Project() {
     return (
-        <div className="project component-space" id="Portfolio">
+        <div className="project component-space" id="Projects">
             <div className="heading">
                 <h1 className="heading">Projects Handled</h1>
             </div>
@@ -23,9 +23,12 @@ function Project() {
                                 <div className="mask-effect"></div>
                             </div>
                             <div className="project-meta absolute">
-                                <h5 className="project-text">FurCare: 2020</h5>
-                                <h4 className="project-text">LOREMM IPSUM</h4>
-                                <a href="#" className="project-btn">View Details</a>
+                                <div className="project-wrapper">
+                                    <h4 className="project-text">FurCare: A Mobile Application To
+                                        Provide Care and Animal Custody
+                                        Towards Stray Dogs and Cats.</h4>
+                                </div>
+                               {/*  <a href="#" className="project-btn">View Details</a> */}
                             </div>
                         </div>
                     </div>
@@ -40,9 +43,14 @@ function Project() {
                                 <div className="mask-effect"></div>
                             </div>
                             <div className="project-meta absolute">
-                                <h5 className="project-text">Foodverse</h5>
-                                <h4 className="project-text">Getting tickets to the big show</h4>
-                                <a href="#" className="project-btn">View Details</a>
+                                <div className="project-wrapper">
+
+                                    <h4 className="project-text">FOODVERSE: An Informative
+                                        Application for Food Enthusiasts</h4>
+
+                                </div>
+
+                               {/*  <a href="#" className="project-btn">View Details</a> */}
                             </div>
                         </div>
                     </div>
@@ -57,9 +65,12 @@ function Project() {
                                 <div className="mask-effect"></div>
                             </div>
                             <div className="project-meta absolute">
-                                <h5 className="project-text">Development</h5>
-                                <h4 className="project-text">Getting tickets to the big show</h4>
-                                <a href="#" className="project-btn">View Details</a>
+                                <div className="project-wrapper">
+                                    <h4 className="project-text">BeST Escolario: An Online Publication
+                                        System for Becarios de Santo Tomas</h4>
+                                </div>
+
+                                {/* <a href="#" className="project-btn">View Details</a> */}
                             </div>
                         </div>
                     </div>

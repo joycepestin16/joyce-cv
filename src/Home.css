@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
 
 .home-bg {
     background-image: url(D:/UST/4THYR-2NDSEM/ITELEC4C/PestinCV/currvitae/src/img/bg.png);
@@ -22,6 +23,19 @@
 li.nav-items{
     font-size: 18px;
     padding-bottom: 15px;
+    
+}
+
+li.nav-item{
+    font-family: Quicksand, sans-serif;
+    font-size: 18px;
+    font-weight: 400px;
+}
+
+
+li.nav-item:hover{
+    color: #f9004d;
+    transition: .4s ease ;
 }
 
 .home-content{
