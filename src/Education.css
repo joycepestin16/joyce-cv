@@ -71,6 +71,10 @@ h6.education-year {
     transform: translateY(5px);
     background-image: linear-gradient(90deg, #f61b10, #ef0963);
   }
+  .card-org:hover{
+    transform: translateY(5px);
+    background-image: linear-gradient(90deg, #f61b10, #ef0963);
+  }
   
   /* Responsive columns - one column layout (vertical) on small screens */
   @media screen and (max-width: 600px) {
